@@ -6,7 +6,7 @@ namespace Corbital\RandomPassword;
 	class RandomPassword
 	{
 		protected $comb = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890';
-		function __construct(argument)
+		function __construct()
 		{
 			 
 		}
