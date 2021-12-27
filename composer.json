@@ -1,0 +1,17 @@
+{
+    "name": "corbital/random-password",
+    "description": "generate random password",
+    "autoload": {
+        "psr-4": {
+            "Corbital\\RandomPassword\\": "src/RandomPassword"
+        }
+    },
+    "authors": [
+        {
+            "name": "chirag jagani",
+            "email": "trueline.chirag@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
